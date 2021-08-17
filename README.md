@@ -3,11 +3,11 @@
 ### My first website :smiley_cat:
 - This is my first web pg developed before taking web development courses.
 
-![](Home "Index")](https://prnt.sc/1q0zvz6 "Index")
+![alt text](https://prnt.sc/1q0zvz6 "Index")
 
 - I applied knowledge that I was obtaining while reading books in pdf and looking for information in google.
 
-![](About "About me")](https://prnt.sc/1q12wrz "About me")
+![](https://prnt.sc/1q12wrz "About me")
 
 -rom here I will continue educating myself to be better every day.
 
