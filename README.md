@@ -15,5 +15,5 @@ I am a very curious person; If something interests me, I look for any way to lea
 ![image](https://user-images.githubusercontent.com/85462420/149589583-ffa854e6-58bd-4b7b-8afa-63bef192d4b4.png)
 
 ### Responsive Desing
-![image](https://user-images.githubusercontent.com/85462420/149589831-3788d823-5a1d-4dde-b62b-c9bd8f884a7c.png) ![image](https://user-images.githubusercontent.com/85462420/149589961-6057129b-7426-4fb4-bd49-3da8e0feb634.png)
 
+![image](https://user-images.githubusercontent.com/85462420/149590673-dda0eb1c-0693-4db2-804d-ddc7ea18aabd.png)
